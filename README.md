@@ -13,7 +13,7 @@
 ## Tech Stack Used :computer:
 --------------------------
 **Build With -** 
-* Python 3.8
+* Python 3.9
 
 **Modules Used -**
 
